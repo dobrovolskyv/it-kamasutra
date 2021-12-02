@@ -1,0 +1,8 @@
+.header {
+  background-color: aquamarine;
+  grid-area: header;
+}
+.header img {
+  width: 15%;
+  padding-left: 20px;
+}

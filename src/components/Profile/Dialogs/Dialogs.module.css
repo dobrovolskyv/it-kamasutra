@@ -1,0 +1,26 @@
+.dialogs {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  /* padding-right: 200px; */
+  position: relative;
+}
+.dialogs__list {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+.item {
+  color: gold;
+}
+
+.messages {
+  text-align: left;
+  margin: 0 auto;
+  padding-top: 20px;
+  letter-spacing: 0.2em;
+  line-height: 1.5em;
+}
+.area {
+  width: 200px;
+}
